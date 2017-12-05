@@ -17,3 +17,7 @@
 17-12-05 11:37:52 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
 17-12-05 11:37:55 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example2", :query-string nil}
 17-12-05 11:38:00 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
+17-12-05 11:56:26 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:56:42 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic", :query-string nil}
+17-12-05 11:56:48 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic/19", :query-string nil}
+17-12-05 11:59:12 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic/hello", :query-string nil}
