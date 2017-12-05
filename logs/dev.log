@@ -21,3 +21,9 @@
 17-12-05 11:56:42 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic", :query-string nil}
 17-12-05 11:56:48 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic/19", :query-string nil}
 17-12-05 11:59:12 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic/hello", :query-string nil}
+17-12-05 12:33:20 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 12:33:41 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/", :query-string nil}
+17-12-05 12:33:41 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/css/site.css", :query-string nil}
+17-12-05 12:33:41 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/assets/normalize.css/normalize.css", :query-string nil}
+17-12-05 12:33:45 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic", :query-string nil}
+17-12-05 12:33:50 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/topic/10", :query-string nil}

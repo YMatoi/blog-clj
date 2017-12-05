@@ -8,3 +8,4 @@
   (duct/read-config (io/resource "config.edn")))
 
 (integrant.repl/set-prep! (comp duct/prep read-config))
+
