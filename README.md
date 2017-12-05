@@ -4,11 +4,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-## Design
-/GET /topics
-/GET /topics/:id
-/POST /topics
-/PUT /topics/:id
+docker-compose -f docker-compose.yml up -d
+access localhost:8080/topic
 
 ## License
 
