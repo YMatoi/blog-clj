@@ -1,1 +1,1 @@
-FROM clojure:onbuild
+FROM clojure:alpine-onbuild
