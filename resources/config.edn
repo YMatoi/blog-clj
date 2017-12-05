@@ -5,13 +5,7 @@
  :duct.module.web/site
  {}
  :duct.router/cascading
- [#ig/ref :blog-clj.endpoint/example
-  #ig/ref :blog-clj.endpoint/example2
-  #ig/ref :blog-clj.endpoint/topic]
- :blog-clj.endpoint/example
- {}
- :blog-clj.endpoint/example2
- {}
+ [#ig/ref :blog-clj.endpoint/topic]
  :blog-clj.endpoint/topic
  {}
  }
