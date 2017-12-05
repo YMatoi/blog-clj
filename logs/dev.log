@@ -1,0 +1,19 @@
+17-12-05 10:47:40 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 10:47:55 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
+17-12-05 11:21:28 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:26:23 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:30:42 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:30:57 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/", :query-string nil}
+17-12-05 11:30:58 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/assets/normalize.css/normalize.css", :query-string nil}
+17-12-05 11:30:58 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/css/site.css", :query-string nil}
+17-12-05 11:31:03 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
+17-12-05 11:31:07 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example2", :query-string nil}
+17-12-05 11:31:11 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
+17-12-05 11:37:24 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:37:34 UnknownHost REPORT [duct.server.http.jetty:23] - :duct.server.http.jetty/stopping-server
+17-12-05 11:37:34 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:37:39 UnknownHost REPORT [duct.server.http.jetty:23] - :duct.server.http.jetty/stopping-server
+17-12-05 11:37:39 UnknownHost REPORT [duct.server.http.jetty:15] - :duct.server.http.jetty/starting-server {:port 3000}
+17-12-05 11:37:52 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}
+17-12-05 11:37:55 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example2", :query-string nil}
+17-12-05 11:38:00 UnknownHost INFO [duct.middleware.web:16] - :duct.middleware.web/request {:request-method :get, :uri "/example", :query-string nil}

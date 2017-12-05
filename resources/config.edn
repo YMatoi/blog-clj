@@ -1,0 +1,14 @@
+{:duct.core/project-ns blog-clj
+ :duct.core/environment :development
+ :duct.module/logging
+ {}
+ :duct.module.web/site
+ {}
+ :duct.router/cascading
+ [#ig/ref :blog-clj.endpoint/example
+  #ig/ref :blog-clj.endpoint/example2]
+ :blog-clj.endpoint/example
+ {}
+ :blog-clj.endpoint/example2
+ {}
+ }
